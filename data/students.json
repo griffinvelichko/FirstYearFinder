@@ -1,0 +1,23 @@
+{"studentList": [
+    {
+        "interest1": "trees",
+        "studentName": "Oli",
+        "residence": 1,
+        "interest2": "skiing",
+        "username": "@oli_olson"
+    },
+    {
+        "interest1": "skiing",
+        "studentName": "Harper",
+        "residence": 2,
+        "interest2": "hiking",
+        "username": "@harper.lea"
+    },
+    {
+        "interest1": "skiing",
+        "studentName": "Griffin",
+        "residence": 2,
+        "interest2": "bucs",
+        "username": "@g.velichko13"
+    }
+]}
